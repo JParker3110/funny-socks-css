@@ -1,0 +1,48 @@
+header{
+ padding: 50px; 
+ background-color: brown;  
+ color: white;
+ text-align: center;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+img{
+    height: 100px;
+    width: 200px;
+    
+}
+#products{
+    background-color: darkgoldenrod;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h2{
+    background-color: white;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 50px;
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+button{
+    background-color: green;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    display: inline;  
+    
+}
+ul{
+    text-align: center;
+
+}
+
+
